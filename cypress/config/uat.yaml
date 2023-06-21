@@ -1,0 +1,3 @@
+config:
+  URL_BASE: " https://qa.hmg.tec.br/"
+  timeout: 30000

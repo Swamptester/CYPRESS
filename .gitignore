@@ -1,0 +1,9 @@
+node_modules
+videos
+screenshots
+debug.log
+mochawesome-report
+package-lock.json
+cypress/downloads/
+results/
+allure-results/
