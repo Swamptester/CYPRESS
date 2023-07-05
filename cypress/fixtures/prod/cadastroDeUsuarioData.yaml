@@ -1,0 +1,20 @@
+
+usuario1:
+  cpf: "280.066.380-47"
+  email: "teste@teste.com"
+  nome: "Zé"
+  sobrenome: "das Couve"
+  identificador: "1"
+  Dominio: "1"
+
+
+
+ 
+usuario2:
+  cpf: "teste1"
+  email: "teste@teste.com"
+  nome: "Zé"
+  sobrenome: "das Couve"
+  identificador: "1"
+  Dominio: "1"
+

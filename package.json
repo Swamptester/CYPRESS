@@ -25,10 +25,10 @@
   },
   "homepage": "https://git.gft.com/latam-qa-practice/iniciativas/cypress/cypress-web-model-project/-/blob/master/README.md",
   "devDependencies": {
-    "@shelex/cypress-allure-plugin": "^1.8.1",
+    "@shelex/cypress-allure-plugin": "^2.40.0",
     "allure-commandline": "^2.13.0",
-    "cypress": "^12.14.0",
-    "cypress-xpath": "^1.6.1",
+    "cypress": "^12.15.0",
+    "cypress-xpath": "^2.0.1",
     "mocha": "^10.2.0",
     "mochawesome": "^7.1.3"
   },
@@ -36,6 +36,7 @@
     "allure": "^0.0.0",
     "allure-js-commons": "^2.4.0",
     "cypress-downloadfile": "^1.2.1",
+    "gerar-cpf": "^2.0.3",
     "moment": "^2.29.1",
     "yamljs": "^0.3.0"
   }

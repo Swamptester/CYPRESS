@@ -1,5 +1,7 @@
 const { defineConfig } = require('cypress')
 
+
+
 module.exports = defineConfig({
   video: false,
   videosFolder: 'allure-results',
@@ -24,6 +26,7 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       return require('./cypress/plugins/index.js')(on, config)
     },
-    baseUrl: 'http://agapito-server.herokuapp.com/',
+    baseUrl: 'https://qa.hmg.tec.br/',
   },
+ 
 })
